@@ -1,2 +1,0 @@
-# ppz
-just another repository
